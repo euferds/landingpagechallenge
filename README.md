@@ -14,8 +14,8 @@ O repositório contém os arquivos `AGENTS.md` e `CLAUDE.md`, incluídos automat
 
 ## 🔗 Links
 
-* Live Site: [Adicionar deploy](https://landingpagechallenge-taupe.vercel.app/)
-* Frontend Mentor Solution: [Adicionar solução](https://your-solution-url.com)
+* Live Site: [https://landingpagechallenge-taupe.vercel.app/](https://landingpagechallenge-taupe.vercel.app/)
+* Frontend Mentor Solution: [https://www.frontendmentor.io/solutions/clipboard-landing-page-responsive-frontend-challenge-ThX7M_pWTY](https://www.frontendmentor.io/solutions/clipboard-landing-page-responsive-frontend-challenge-ThX7M_pWTY)
 
 ## 📸 Screenshot
 ![Project preview](preview.jpg)
